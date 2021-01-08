@@ -1,6 +1,6 @@
 <?php
 
-//meu código PHP vem aqui 1233
+//meu código PHP vem aqui 12334
 
 $pg = isset($_GET['pg']);
 
